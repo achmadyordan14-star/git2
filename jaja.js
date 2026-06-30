@@ -1,1 +1,2 @@
-console.log('fungsi')
+console.log('fdungsi')
+alert.log ('op')
